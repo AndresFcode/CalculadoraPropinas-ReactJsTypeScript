@@ -1,3 +1,11 @@
+Link: https://calculadora-propinas-react-js-type-script.vercel.app/
+
+Herramientas:
+Reactjs. 
+Typescript. 
+TailwindCSS.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
